@@ -8,4 +8,11 @@
 
 ### Database Management Systems (DBMS)
 
-- Database can be
+- Eine Database kann eine eifache Excel- oder Textdatei sein.
+- Es werden aber meistens spezielle Software Programme verwendet um eine Database zu erstellen und zu managen/pflegen.
+
+1. Machen es einfach große Mengen an Daten zu managen
+2. Kümmern sich um Security
+3. Bieten Backups an
+4. Import und Export von Daten
+5. Können mit anderen Anwendungen interagieren
