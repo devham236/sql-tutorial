@@ -16,3 +16,5 @@
 3. Bieten Backups an
 4. Import und Export von Daten
 5. Können mit anderen Anwendungen interagieren
+
+### Two Types of Databases
