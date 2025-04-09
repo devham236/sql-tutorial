@@ -1,9 +1,11 @@
 ## What is a Database ?
 
-- Any collection of related information
-- DB's can be stored in different ways
-- For example Amazon, keeps track of Products, Reviews, Purchase Order, Credit Cards, Users usw.
-- Or a shopping list, keeps track of products that need to be purchased.
-- Computers are great to store large amounts of data.
+- Jede Sammlung von zusammenhängenden Informationen
+- Datenbanken können auf verschiedene Arten gespeichert werden
+- Zum Beispiel: Amazon verfolgt Produkte, Bewertungen, Bestellungen, Kreditkarten, Benutzer usw.
+- Oder eine Einkaufsliste, die Produkte enthält, die gekauft werden müssen
+- Computer sind hervorragend geeignet, große Mengen an Daten zu speichern.
 
 ### Database Management Systems (DBMS)
+
+- Database can be
