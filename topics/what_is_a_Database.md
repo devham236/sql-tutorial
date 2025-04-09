@@ -22,6 +22,8 @@
 - **Relational DB's (SQL)** organisieren Daten in eine oder mehrere Tabellen.
 - Jede Tabelle hat Spalten und Reihen
 - Jede Reihe hat einen unique key
+- Relational DBMS: MySQL, Oracle, PostgreSQL, MariaDB
+- SQL (Structured Query Language) ist the Sprache die verwendet werden muss um mit solchen RDBMS zu interagieren
 
 - **Non-Relational DB's (NoSQL)** organisieren Daten in collections nach Key-Value Schema
 - verwenden auch Dokumente(JSON, XML, etc) oder Graphen
