@@ -1,0 +1,33 @@
+Teil 1: Multiple Choice (wähle die richtige(n) Antwort(en))
+1. Was trifft auf ein Datenbankmanagementsystem (DBMS) zu?
+a) Es speichert Daten ausschließlich im XML-Format.
+b)X Es erleichtert die Verwaltung großer Datenmengen.
+c) Es ersetzt alle Sicherheitsmechanismen eines Betriebssystems.
+d)X Es kann mit anderen Anwendungen interagieren.
+
+2. Welche Aussage über relationale Datenbanken ist korrekt?
+a) Sie speichern Daten hauptsächlich als Key-Value-Paare.
+b)X Jede Zeile in einer Tabelle besitzt einen eindeutigen Schlüssel.
+c) Sie verwenden keine festgelegte Struktur.
+d) MongoDB ist ein Beispiel für eine relationale Datenbank.
+
+
+Teil 2: Kurzantworten (1–2 Sätze)
+3. Erkläre mit deinen eigenen Worten, was eine Datenbank ist.
+- Eine Datenbank ist eine Sammlung von zusammenhängenden Daten. Sie kann ein einfacher Zettel sein mit Dingen die man einkaufen muss bis hin zu komplexen und riesigen Sammlungen, um alle Daten im Kontext einer E-Commerce Plattform wie Amazon zu speichern.
+
+4. Nenne zwei konkrete Vorteile, die ein DBMS gegenüber einer einfachen Textdatei bietet.
+- Ein DBMS übernimmt den Sicherheitsaspekt einer Datenbank
+- DBMS können mit anderen Anwendungen interagieren
+
+5. Was ist eine "Database Query" und warum kann sie in komplexen Datenbanken schwieriger werden?
+- Eine Database Query ist eine Anfrage an unser DBMS um spezifische Daten von der Datenbank zu erhalten
+
+Teil 3: Zuordnungsaufgabe
+Ordne zu: Welche der folgenden Datenbanktypen (SQL oder NoSQL) passt zu den Beschreibungen?
+
+Beschreibung	                                        Typ (SQL oder NoSQL)
+Speichert Daten in Tabellen mit Spalten und Zeilen	            SQL
+Eignet sich gut für flexible Dokumentstrukturen wie JSON	    NoSQL
+Benötigt in der Regel die Sprache SQL zur Abfrage	            SQL
+Beispiele: MongoDB, Firebase	                                NoSQL
