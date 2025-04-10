@@ -30,3 +30,6 @@
 - Composit Keys bestehen aus mehreren Primary Keys, weil ein einzelner die Reihe nicht einzigartig identifizieren würde.
   <img width="410" alt="Bildschirmfoto 2025-04-10 um 11 16 16" src="https://github.com/user-attachments/assets/2c0ead3f-2e0b-4757-9b40-bce2e5b2a3e6" />
 - Diese Keys können auch aus mehreren Foreign Keys bestehen
+<img width="1079" alt="Bildschirmfoto 2025-04-10 um 11 24 36" src="https://github.com/user-attachments/assets/14f20aec-b610-4133-9223-f64a5fdf6541" />
+
+
