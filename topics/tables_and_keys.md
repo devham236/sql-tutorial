@@ -20,3 +20,7 @@
 ### Foreign Key
 
 - Wir können in jeder Reihe auch einen weiteren Primary Key definieren, dieser verweist auf Primary Keys einer anderen Tabelle.
+<img width="912" alt="Bildschirmfoto 2025-04-10 um 11 00 49" src="https://github.com/user-attachments/assets/6b633c5e-8281-41b8-b32e-2abb7eb45379" />
+<img width="395" alt="Bildschirmfoto 2025-04-10 um 11 01 18" src="https://github.com/user-attachments/assets/c4572885-12b4-4caa-bc64-0ccf3aafad5c" />
+
+
