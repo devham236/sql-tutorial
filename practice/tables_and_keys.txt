@@ -1,0 +1,43 @@
+Teil 1: Multiple Choice
+Wähle die richtige(n) Antwort(en):
+
+Was beschreibt eine Row (Reihe) in einer Datenbanktabelle am besten?
+a) Eine Eigenschaft wie Name oder Alter
+b)X Einen vollständigen Datensatz (z. B. einen Benutzer oder ein Produkt)
+c) Eine Tabelle in einer anderen Tabelle
+d)X Eine Sammlung von Werten für jede Spalte einer Tabelle
+
+Welche Aussage über Primary Keys ist korrekt?
+a)X Sie dienen dazu, jede Zeile eindeutig zu identifizieren
+b) Sie können Duplikate enthalten, wenn sie Teil einer Foreign Key-Beziehung sind
+c)X Es ist üblich, eine eigene ID-Spalte als Primary Key zu nutzen
+d) Eine Tabelle darf keinen Primary Key enthalten
+
+Wofür wird ein Foreign Key verwendet?
+a) Um eine Tabelle in ein Textformat zu exportieren
+b) Um zufällige Werte für eine Tabelle zu generieren
+c)X Um eine Beziehung zwischen zwei Tabellen herzustellen
+d)X Um auf den Primary Key einer anderen Tabelle zu verweisen
+
+Teil 2: Kurzantworten
+Antworte in 1–2 Sätzen.
+
+Was ist der Unterschied zwischen einem Natural Key und einem Surrogate Key?
+- Ein Natural Key hat einen Bezug auf echte Eigenschaften einer Person, eines Produktes etc. Zum Beispiel wenn wir eine User Tabelle haben und für den Primary Key die E-Mail Adresse des Users benutzen oder die IBAN eines Kunden in einer Tabelle für Kunden in einer Bank
+- Ein Surrogate Key oder Ersatz Key im deutschen, kann eine beliebige Zahl oder ähnliches sein die keinen Bezug auf echte Eigenschaften/Werte haben
+
+Warum ist es sinnvoll, in einer Tabelle einen Primary Key zu verwenden?
+- Damit jeder Eintrag bzw. Zeile/Row einzigartig ist um zu versichern dass man gezielt einer dieser Eitnräge auswählen kann.
+
+Erkläre kurz, was ein Composite Key ist und wann er verwendet wird.
+- Ein Composit key besteht aus mehreren Primary Keys, da ein einzelner dieser Keys nicht versichert die Zeile/Row eindeutig identifizieren zu können
+
+
+Teil 3: Zuordnungsaufgabe
+Ordne zu – welche Begriffe passen zu den Beschreibungen:
+
+Beschreibung	                                                              Begriff
+Eine Kombination mehrerer Spalten, die zusammen eine Zeile eindeutig machen -- Composit Key	
+Ein Schlüssel ohne Bezug zu echten Eigenschaften (z. B. eine zufällige ID) -- Surrogate Key	
+Ein Attribut, das aus realen Daten stammt, z. B. E-Mail-Adresse	-- Natural Key
+Ein Feld, das auf den Primary Key einer anderen Tabelle verweist -- Foreign Key
