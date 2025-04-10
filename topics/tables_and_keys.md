@@ -6,7 +6,7 @@
   <img width="680" alt="Bildschirmfoto 2025-04-10 um 10 29 23" src="https://github.com/user-attachments/assets/38e396c7-f383-4cf6-88ce-36c3fa850d73" />
 
 - Wenn man eine Tabelle erstellen möchte sollte jede Reihe einen einzigartigen Wert besitzen um sich immer von allen zu unterscheiden.
-- Deswegen sollt es immer eine Id Spalte geben.
+- Deswegen sollte es immer eine Id Spalte geben.
 - Dieser einzigartige Wert wird auch als "Primary Key" bezeichnet.
 
 ### Natural Key
@@ -16,3 +16,7 @@
 ### Surrogate(Ersatz) Key
 
 - Wenn Primary Keys keinen Bezug auf echte Eigenschaften haben, z.B eine zufällige Nummer in der User Tabelle, wird dieser als "Surrogate Key" bezeichnet
+
+### Foreign Key
+
+- Wir können in jeder Reihe auch einen weiteren Primary Key definieren, dieser verweist auf Primary Keys einer anderen Tabelle.
