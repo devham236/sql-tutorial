@@ -28,3 +28,4 @@ WHERE employee.salary > 30000;
 ```bash
 mysql -u root -p
 ```
+- Dann das Password eingeben
