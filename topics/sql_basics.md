@@ -6,4 +6,9 @@
 - Tabellen designen und erstellen
 - Nicht alle RDBMS implementieren SQL genau gleich
 
-- Es ist eine "hybride" Sprache weil sie aus 4 Typen einer Sprache besteht
+- Es ist eine "hybride" Sprache weil sie aus 4 Typen einer Sprache besteht:
+
+1. Data Query Language (DQL)
+2. Data Definition Language (DQL)
+3. Data Control Language (DQL)
+4. Data Manipulation Language (DQL)
