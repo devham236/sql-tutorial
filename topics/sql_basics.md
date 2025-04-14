@@ -43,3 +43,5 @@ BLOB; // Binary Large Object
 DATE; // 'YYYY-MM-DD'
 TIMESTAMP; // 'YYYY-MM-DD HH:MM:SS'
 ```
+
+### Creating Tables
