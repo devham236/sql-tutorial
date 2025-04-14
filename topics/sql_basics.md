@@ -49,3 +49,29 @@ TIMESTAMP; // 'YYYY-MM-DD HH:MM:SS'
 <img width="352" alt="Bildschirmfoto 2025-04-14 um 09 14 45" src="https://github.com/user-attachments/assets/83ac4f11-2d98-42c4-976f-f1188d0668c5" />
 
 - SQL sollte man (muss man aber nicht) immer uppercased schreiben um die "reserved keywoards" sofort zu erkennen bzw. um den SQL code von den eigenen Texten unterscheiden zu können.
+- Außerdem muss nach jedem SQL-Befehl ein Semikolon
+
+```js
+CREATE TABLE student (
+    student_id INT PRIMARY KEY,
+    name VARCHAR(20),
+    major VARCHAR(20)
+);
+
+// Primary Keys kannst du auch so definieren
+
+CREATE TABLE student (
+    student_id INT,
+    name VARCHAR(20),
+    major VARCHAR(20),
+    PRIMARY KEY(student_id)
+);
+```
+
+- Mit 'CREATE TABLE' können wir unsere Tabelle erstellen und im Funktionskörper die einzelnen Spalten/Columns definieren
+
+```js
+DESCRIBE student;
+```
+
+- Mit 'DESCRIBE table_name' kann man die erstellte Tabelle aufrufen
