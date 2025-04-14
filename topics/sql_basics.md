@@ -32,3 +32,14 @@ mysql -u root -p
 ```
 
 - Dann das Password eingeben
+
+### Data Types
+
+```js
+INT; // Ganze Zahlen
+DECIMAL(10, 4); // Dezimalzahlen(Total Digits, Digits after decimal)
+VARCHAR(1); // String of text length 1
+BLOB; // Binary Large Object
+DATE; // 'YYYY-MM-DD'
+TIMESTAMP; // 'YYYY-MM-DD HH:MM:SS'
+```
