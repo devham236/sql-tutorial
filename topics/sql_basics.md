@@ -24,8 +24,11 @@ WHERE employee.salary > 30000;
 ```
 
 ### Setup
+
 - Du musst dich erst mit dem SQL Server auf deinem Gerät verbinden bzw. dich anmelden
+
 ```bash
 mysql -u root -p
 ```
+
 - Dann das Password eingeben
