@@ -82,7 +82,7 @@ DESCRIBE student;
 DROP TABLE table_name;
 ```
 
-- Mit 'DROP TABLE' können wir Tabelle löschen
+- Mit 'DROP TABLE' können wir Tabellen löschen
 
 ### Add/Remove Columns to/from Tables
 
