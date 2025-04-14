@@ -45,3 +45,4 @@ TIMESTAMP; // 'YYYY-MM-DD HH:MM:SS'
 ```
 
 ### Creating Tables
+<img width="352" alt="Bildschirmfoto 2025-04-14 um 09 14 45" src="https://github.com/user-attachments/assets/83ac4f11-2d98-42c4-976f-f1188d0668c5" />
