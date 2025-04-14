@@ -75,3 +75,25 @@ DESCRIBE student;
 ```
 
 - Mit 'DESCRIBE table_name' kann man die erstellte Tabelle aufrufen
+
+### Deleting Tables
+
+```js
+DROP TABLE table_name;
+```
+
+- Mit 'DROP TABLE' können wir Tabelle löschen
+
+### Add/Remove to/from Tables
+
+```js
+ALTER TABLE student ADD gpa DECIMAL;
+```
+
+- Mit 'ALTER TABLE' und 'ADD' kann man der Tabelle eine neue Spalte/Column hinzufügen
+
+```js
+ALTER TABLE student DROP COLUMN gpa;
+```
+
+- Mit 'ALTER TABLE' und 'DROP COLUMN' kann man der Tabelle eine Spalte/Column entfernen.
