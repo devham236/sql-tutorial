@@ -84,7 +84,7 @@ DROP TABLE table_name;
 
 - Mit 'DROP TABLE' können wir Tabelle löschen
 
-### Add/Remove to/from Tables
+### Add/Remove Columns to/from Tables
 
 ```js
 ALTER TABLE student ADD gpa DECIMAL;
