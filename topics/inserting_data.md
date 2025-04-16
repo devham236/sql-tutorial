@@ -39,3 +39,14 @@ CREATE TABLE student (
     major VARCHAR(20) UNIQUE
 );
 ```
+
+- Mit 'DEFAULT' können wir einen Standard Wert für eine Spalte/Column bestimmen, wenn eine Reihe/Row keinen Wert für diese Spalte/Column definiert hat.
+
+```js
+CREATE TABLE student (
+    student_id INT PRIMARY KEY,
+    name VARCHAR(20),
+    major VARCHAR(20) DEFAULT 'undecided'
+);
+INSERT INTO student(student_id, name) VALUES(1, 'Bob');
+```
