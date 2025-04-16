@@ -30,7 +30,7 @@ INSERT INTO student(student_id, major) VALUES(5, 'Computer Science');
 
 - Wenn wir dann versuchen nur eine 'student_id' und 'major' hinzuzufügen, bekommen wir einen error: 'Field 'name' doesn't have a default value'
 
-- Mit 'UNIQUE' bestimmen wir das zwei verschiedene Reihen/Rows nicth denselben Wert für eine Spalte/Column haben dürfen
+- Mit 'UNIQUE' bestimmen wir das zwei verschiedene Reihen/Rows nicth denselben Wert für eine Spalte/Column haben dürfen, verhindern also Duplikate.
 
 ```js
 CREATE TABLE student (
