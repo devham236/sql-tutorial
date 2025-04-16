@@ -50,3 +50,16 @@ CREATE TABLE student (
 );
 INSERT INTO student(student_id, name) VALUES(1, 'Bob');
 ```
+
+- Mit 'AUTO_INCREMENT' müssen wir nicht immer selber die 'student_id' angeben und darauf achten das sie ein höher ist als die davor
+
+```js
+CREATE TABLE student (
+    student_id INT AUTO_INCREMENT,
+    name VARCHAR(20),
+    major VARCHAR(20) DEFAULT 'undecided',
+    PRIMARY KEY(student_id)
+);
+INSERT INTO student(name, major) VALUES('Bob', 'Sociology');
+INSERT INTO student(name, major) VALUES('Hamza', 'Computer Science');
+```
