@@ -3,7 +3,17 @@
 - Um Werte zu bearbeiten könnnen wir wie folgt vorgehen:
 
 ```js
-UPDATE student SET major = 'Bio' WHERE major = 'Biology';
+UPDATE student
+SET major = 'Bio'
+WHERE major = 'Biology';
 ```
 
 - Alle Reihen/Rows die 'Biology' als Wert für die Spalte/Column 'major' wurden angepasst, so dass jetzt 'Bio' der Wert ist
+
+- Die Bedingung kann man auch erweitern:
+
+```js
+UPDATE student
+SET major = 'Biochemistry'
+WHERE major = 'Bio' OR major = 'Chemistry';
+```
