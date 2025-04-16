@@ -17,3 +17,11 @@ UPDATE student
 SET major = 'Biochemistry'
 WHERE major = 'Bio' OR major = 'Chemistry';
 ```
+
+- Die Aktion, bzw. die Logik die angewendet werden soll, kann auch erweitert werden:
+
+```js
+UPDATE student
+SET name = 'Tom', major = 'undecided'
+WHERE student_id = 3;
+```
