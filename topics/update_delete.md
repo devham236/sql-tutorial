@@ -1,5 +1,7 @@
 ## Update & Delete
 
+### Update
+
 - Um Werte zu bearbeiten könnnen wir wie folgt vorgehen:
 
 ```js
@@ -25,3 +27,5 @@ UPDATE student
 SET name = 'Tom', major = 'undecided'
 WHERE student_id = 3;
 ```
+
+### Delete
