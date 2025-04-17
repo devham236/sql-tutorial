@@ -6,7 +6,7 @@
 SELECT * FROM student;
 ```
 
-- So bekommen wir alle Informationen in der 'student' Tabelle
+- So bekommen wir alle Informationen in der 'student' Tabelle bzw. alle Spalten/Columns.
 
 - Wenn wir aber gezielt nur bestimmte Informationen haben möchten, können wir bestimmte Spalten/Columns bzw. bestimmte Informationen der Einträge.
 
