@@ -38,3 +38,10 @@ WHERE student_id = 5;
 ```
 
 - Alle Reihen/Rows in der 'student' Tabelle mit der 'student_id' 5 werden gelöscht.
+
+- Genau wie bei UPDATE kann die Bedingung erweitert werden.
+
+```js
+DELETE FROM student
+WHERE name = 'Bob' AND student_id = 1;
+```
