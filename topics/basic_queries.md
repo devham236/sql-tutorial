@@ -41,3 +41,16 @@ FROM student
 ORDER BY student_id ASC
 LIMIT 2;
 ```
+
+- Es gibt natürlich auch andere Vergleichsoperatoren
+
+```js
+-- < -- kleiner
+-- > -- größer
+-- <= -- kleiner gleich
+-- >= -- größer gleich
+-- = -- gleich
+-- <> -- nicht gleich
+-- AND -- und
+-- OR -- oder
+```
