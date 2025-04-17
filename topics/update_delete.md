@@ -29,3 +29,12 @@ WHERE student_id = 3;
 ```
 
 ### Delete
+
+- Um bestimmte Werte zu löschen geht man wie folgt vor:
+
+```js
+DELETE FROM student
+WHERE student_id = 5;
+```
+
+- Alle Reihen/Rows in der 'student' Tabelle mit der 'student_id' 5 werden gelöscht.
