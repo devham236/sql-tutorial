@@ -32,3 +32,12 @@ SELECT student.name, student.major
 FROM student
 ORDER BY name DESC;
 ```
+
+- Das Ergebnis von 'SELECT' können wir auch limitieren und mit anderen Filteroptionen kombinieren.
+
+```js
+SELECT *
+FROM student
+ORDER BY student_id ASC
+LIMIT 2;
+```
