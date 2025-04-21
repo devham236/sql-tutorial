@@ -97,3 +97,4 @@ CREATE TABLE works_with(
 ```
 
 ### Branch Supplier
+<img width="305" alt="Bildschirmfoto 2025-04-21 um 11 55 50" src="https://github.com/user-attachments/assets/dd38734f-d37c-48c0-96bd-acfe2a702d10" />
