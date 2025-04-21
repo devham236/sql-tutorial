@@ -8,3 +8,5 @@
 ### Employee
 
 - Die 'employee' Tabelle hat die 'emp_id' Spalte/Column als 'Primary Key'.
+- Die 'super_id' und die 'branch_id' sind 'Foreign Keys'
+- 'super_id' bezieht sich auf die 'emp_id', 'branch_id' bezieht sich auf den Primary Key 'branch_id' von der 'branch' Tabelle.
