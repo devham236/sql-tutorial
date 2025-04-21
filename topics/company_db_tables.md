@@ -118,6 +118,7 @@ CREATE TABLE branch_supplier(
 #### Branch & Employee
 
 ```js
+-- Corporate
 INSERT INTO employee VALUES(100, 'David', 'Wallace', '1967-11-17', 'M', 250000, NULL, NULL);
 
 INSERT INTO branch VALUES(1, 'Corporate', 100, '2006-02-09');
