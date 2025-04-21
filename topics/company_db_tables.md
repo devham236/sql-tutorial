@@ -65,6 +65,8 @@ ON DELETE SET NULL;
 - Jetzt können wir den Foreign Key 'branch_id' in der employee Tabelle erstellen
 
 ### Client
+<img width="291" alt="Bildschirmfoto 2025-04-21 um 11 40 40" src="https://github.com/user-attachments/assets/25f2221b-8942-481e-93d0-7effd1c6449c" />
+
 
 ### Works With
 
