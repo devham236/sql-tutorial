@@ -97,4 +97,18 @@ CREATE TABLE works_with(
 ```
 
 ### Branch Supplier
+
 <img width="305" alt="Bildschirmfoto 2025-04-21 um 11 55 50" src="https://github.com/user-attachments/assets/dd38734f-d37c-48c0-96bd-acfe2a702d10" />
+
+- Die branch_supplier Tabelle hat einen 'branch_id' Foreign Key.
+- Die Primary Keys sind 'supplier_name' und 'branch_id'
+
+```js
+CREATE TABLE branch_supplier(
+    branch_id INT,
+    supplier_name VARCHAR(40),
+    supply_type VARCHAR(40),
+    PRIMARY KEY(branch_id, supplier_name),
+    FOREIGN KEY(branch_id) REFERENCES branch(branch_id) ON DELETE CASCADE
+);
+```
