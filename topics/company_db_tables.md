@@ -4,3 +4,7 @@
 
 - Zuerst müssen wir alle Tabellen erstellen und mit Daten füllen.
 - Wichtig ist, dass ein paar Tabellen 'Foreign Keys' haben, die sich auf andere Primary Keys beziehen.
+
+### Employee
+
+- Die 'employee' Tabelle hat die 'emp_id' Spalte/Column als 'Primary Key'.
