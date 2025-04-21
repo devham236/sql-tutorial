@@ -26,7 +26,14 @@ CREATE TABLE employee(
 );
 ```
 
-- Zunächst sind die 'super_id' und 'branch_id' Spalten/Columns als normale INT initialisiert.
+```js
+ALTER TABLE employee
+ADD FOREIGN KEY(super_id)
+REFERENCES employee(emp_id)
+ON DELETE SET NULL;
+```
+
+- Die 'super_id' bezieht sich auf die 'emp_id' und die 'branch_id' bleibt erstmal ein normaler INT.
 
 ### Branch
 
@@ -47,3 +54,12 @@ CREATE TABLE branch(
 
 - Um einen Foreign Key zu erstellen, übergibt man die gewünschte Spalte/Column 'FOREIGN KEY(spaltenname)' und die Spalte/Column die referenziert werden soll 'REFERENCES tabellenname(spaltenname)
 - 'ON DELETE SET NULL' bedeutet wenn die bezogene Spalte/Column bzw. der Wert (emp_id) gelöscht wird, dann soll der Wert (mgr_id) auf null gesetzt werden.
+
+```js
+ALTER TABLE employee
+ADD FOREIGN KEY(branch_id)
+REFERENCES branch(branch_id)
+ON DELETE SET NULL;
+```
+
+- Jetzt können wir den Foreign Key 'branch_id' in der employee Tabelle erstellen
