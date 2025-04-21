@@ -29,3 +29,4 @@ CREATE TABLE employee(
 - Zunächst sind die 'super_id' und 'branch_id' Spalten/Columns als normale INT initialisiert.
 
 ### Branch
+<img width="330" alt="Bildschirmfoto 2025-04-21 um 10 54 51" src="https://github.com/user-attachments/assets/457f26f4-9b8a-4567-bbcc-833661a62aef" />
