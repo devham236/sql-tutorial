@@ -27,3 +27,5 @@ CREATE TABLE employee(
 ```
 
 - Zunächst sind die 'super_id' und 'branch_id' Spalten/Columns als normale INT initialisiert.
+
+### Branch
