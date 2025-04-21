@@ -80,7 +80,9 @@ CREATE TABLE client(
 ```
 
 ### Works With
+
 <img width="213" alt="Bildschirmfoto 2025-04-21 um 11 48 25" src="https://github.com/user-attachments/assets/29cc733e-9438-4ffc-b078-62beed624a2c" />
 
+- Die works_with Tabelle hat einen Composit Key, bestehend aus zwei Foreign Key, emp_id von der employee Tabelle und client_id von der client Tabelle.
 
 ### Branch Supplier
