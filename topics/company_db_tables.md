@@ -85,4 +85,15 @@ CREATE TABLE client(
 
 - Die works_with Tabelle hat einen Composit Key, bestehend aus zwei Foreign Key, emp_id von der employee Tabelle und client_id von der client Tabelle.
 
+```js
+CREATE TABLE works_with(
+    emp_id INT,
+    client_id INT,
+    total_sales INT,
+    PRIMARY KEY(emp_id, client_id),
+    FOREIGN KEY(emp_id) REFERENCES employee(emp_id) ON DELETE CASCADE,
+    FOREIGN KEY(client_id) REFERENCES client(client_id) ON DELETE CASCADE
+);
+```
+
 ### Branch Supplier
