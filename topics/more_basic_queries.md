@@ -55,3 +55,11 @@ FROM employee;
 SELECT SUM(salary)
 FROM employee;
 ```
+
+- Um darzustellen wie viele Einträge es bei bestimmten Spalten/Columns gibt, z.B wie viele weibliche und männliche 'employees' es in der 'employee' Tabelle gibt, geht man wie folgt vor
+
+```js
+SELECT COUNT(sex), sex
+FROM employee
+GROUP BY sex;
+```
