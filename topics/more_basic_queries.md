@@ -26,3 +26,12 @@ FROM employee;
 SELECT COUNT(emp_id)
 FROM employee;
 ```
+
+- Wir können mithilfe der 'count()' Methode auch die Abfrage erweitern,
+  z.B wenn wir wissen möchten wie viele weibliche employees es gibt, die nach einem bestimmtem Datum geboren wurden.
+
+```js
+SELECT COUNT(emp_id)
+FROM employee
+WHERE employee.sex = 'F' AND employee.birth_date > '1971-01-01';
+```
