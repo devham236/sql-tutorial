@@ -20,18 +20,29 @@ FROM employee;
 
 ### SQL Functions
 
-- Um herauszufinden wie viele 'employees' in der 'employee' Tabelle sind, kann man die 'count()' methode verwenden
+#### COUNT
+
+- Um herauszufinden wie viele 'employees' in der 'employee' Tabelle sind, kann man die 'COUNT()' methode verwenden
 
 ```js
 SELECT COUNT(emp_id)
 FROM employee;
 ```
 
-- Wir können mithilfe der 'count()' Methode auch die Abfrage erweitern,
+- Wir können mithilfe der 'COUNT()' Methode auch die Abfrage erweitern,
   z.B wenn wir wissen möchten wie viele weibliche employees es gibt, die nach einem bestimmtem Datum geboren wurden.
 
 ```js
 SELECT COUNT(emp_id)
 FROM employee
 WHERE employee.sex = 'F' AND employee.birth_date > '1971-01-01';
+```
+
+#### AVG
+
+- Mit der methode 'AVG()' findet man den Durchschnitt aller Werte in einer Spalte/Column heraus.
+
+```js
+SELECT AVG(salary)
+FROM employee;
 ```
