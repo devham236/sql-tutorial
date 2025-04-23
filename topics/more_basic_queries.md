@@ -46,3 +46,12 @@ WHERE employee.sex = 'F' AND employee.birth_date > '1971-01-01';
 SELECT AVG(salary)
 FROM employee;
 ```
+
+#### SUM
+
+- Mit 'SUM()' kann man die Summer aller Werte in einer Spalte/Column heruasfinden.
+
+```js
+SELECT SUM(salary)
+FROM employee;
+```
