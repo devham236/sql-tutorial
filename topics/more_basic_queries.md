@@ -17,3 +17,12 @@ FROM employee;
 SELECT DISTINCT sex
 FROM employee;
 ```
+
+### SQL Functions
+
+- Um herauszufinden wie viele 'employees' in der 'employee' Tabelle sind, kann man die 'count()' methode verwenden
+
+```js
+SELECT COUNT(emp_id)
+FROM employee;
+```
