@@ -38,4 +38,4 @@ WHERE client.branch_id = (
 );
 ```
 
-- Man kann auch das = verwenden in nested queries verwenden
+- Man kann auch das = verwenden in nested queries verwenden, mann muss aber sciherstellen das nur ein Eintrag vom nested SELECT statement returned wird.
