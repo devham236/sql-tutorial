@@ -23,4 +23,4 @@ LEFT JOIN branch
 ON employee.emp_id = branch.mgr_id;
 ```
 
-- mit 'LEFT JOIN' besagen wir das alle Einträge der linken Tabelle, in unserem Fall die employee Tabelle, in der neuen Tabelle enthalten sein soll.
+- Mit 'LEFT JOIN' besagen wir das alle Einträge der linken Tabelle, in unserem Fall die employee Tabelle, im Ergebnis enthalten sein soll.
