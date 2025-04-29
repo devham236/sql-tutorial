@@ -24,3 +24,14 @@ ON employee.emp_id = branch.mgr_id;
 ```
 
 - Mit 'LEFT JOIN' besagen wir das alle Einträge der linken Tabelle, in unserem Fall die employee Tabelle, im Ergebnis enthalten sein soll.
+
+### Right Join
+
+```js
+SELECT employee.emp_id, employee.first_name, branch.branch_name
+FROM employee
+RIGHT JOIN branch
+ON employee.emp_id = branch.mgr_id;
+```
+
+- Mit 'RIGHT JOIN' sind dann die Einträge der rechten Tabelle betroffen, also die branch Tabelle.
