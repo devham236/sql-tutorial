@@ -11,3 +11,17 @@ SELECT works_with.emp_id
 FROM works_with
 WHERE works_with.total_sales > 30000;
 ```
+
+```js
+// Wir wissen das wir die Vor- und Nachnamen von der employee bekommen möchten
+
+SELECT employee.first_name, employee.last_name
+FROM employee
+WHERE employee.emp_id IN (
+    SELECT works_with.emp_id
+    FROM works_with
+    WHERE works_with.total_sales > 30000
+);
+```
+
+- So bekommen wir alle Vor- und Nachnamen aller employees, dessen id Teil des Ergebnis des nested SELECT statements ist.
