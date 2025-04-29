@@ -9,3 +9,5 @@ FROM employee
 JOIN branch
 ON employee.emp_id = branch.mgr_id;
 ```
+
+- Mit dem Join statement haben wir Einträge von der employee und branch Tabelle zusammengestzt, wo die emp_id gleich die mgr_id ist.
