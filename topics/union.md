@@ -12,6 +12,14 @@ FROM branch;
 
 - wichtig ist das die Anzahl der Spalten/Columns in beiden SELECT statements übereinstimmt.
 
+```js
+SELECT client_name, branch_id
+FROM client
+UNION
+SELECT supplier_name, branch_id
+FROM branch_supplier;
+```
+
 - Im Beispiel oben bekommt man eine lange Liste mit all den Einträgen zu 'first_name' und 'branch_name'. Der Spaltenname der Ergebnisse ist aber 'first_name'.
 
 ```js
