@@ -9,3 +9,5 @@ UNION
 SELECT branch_name
 FROM branch;
 ```
+
+- wichtig ist das die Anzahl der Spalten/Columns in beiden SELECT statements übereinstimmt.
