@@ -5,5 +5,9 @@
 - Zum Beispiel, wenn wir "alle employees finden wollen die mehr als 30.000$ an einen client verkauft haben"
 
 ```js
+// Zuerst holen wir uns alle emp_id's von der works_with Tabelle wo der total_sales Wert über 30000 liegt
 
+SELECT works_with.emp_id
+FROM works_with
+WHERE works_with.total_sales > 30000;
 ```
