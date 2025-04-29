@@ -25,3 +25,17 @@ WHERE employee.emp_id IN (
 ```
 
 - So bekommen wir alle Vor- und Nachnamen aller employees, dessen id Teil des Ergebnis des nested SELECT statements ist.
+
+```js
+// Finde alle client names die von Michael Scott gemanaged werden.
+
+SELECT client.client_name
+FROM client
+WHERE client.branch_id = (
+    SELECT branch.branch_id
+    FROM branch
+    WHERE branch.mgr_id = 102
+);
+```
+
+- Man kann auch das = verwenden in nested queries verwenden
