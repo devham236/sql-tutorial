@@ -15,3 +15,5 @@ CREATE TABLE branch (
 ```
 
 - Im CREATE statement, definieren wir einen Foreign Key 'mgr_id' der auf die 'emp_id' von der employee Tabelle verweist, wenn dieser Foreign Key gelöscht wird bzw. wenn die 'emp_id' gelöscht wird, bekommt die 'mgr_id' automatisch null als Wert.
+
+### Cascade
