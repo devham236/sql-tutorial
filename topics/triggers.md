@@ -35,3 +35,5 @@ CREATE
     END$$
 DELIMITER ;
 ```
+
+- Man kann auch If statements verwenden um Konditionen zu überprüfen.
