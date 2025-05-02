@@ -12,3 +12,6 @@ CREATE
     END $$
 DELIMITER;
 ```
+
+- Hier bestimmen wir etwas das bevor ein neuer Eintrag der employee Tabelle hinzugefügt wird, ausgeführt wird.
+- Für jeden Eintrag in der employee Tabelle, wird der trigger_test Tabelle ein string hinzugefügt.
