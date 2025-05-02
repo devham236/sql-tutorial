@@ -37,3 +37,4 @@ DELIMITER ;
 ```
 
 - Man kann auch If statements verwenden um Konditionen zu überprüfen.
+- Man kann natürlich auch andere Operationen verwenden anstatt INSERT, z.B UPDATE, DELETE usw.
