@@ -18,3 +18,20 @@ DELIMITER;
 
 - 'DELIMITER $$' bedeutet man definiert einen neuen Endpunkt, also der Punkt der das Ende eines Befehl beschreibt, sonst war es immer ;
 - Nach dem 'FOR EACH' beenden wir dann den trigger und redfinieren den Delimiter als ;
+
+```js
+DELIMITER $$
+CREATE
+    TRIGGER my_trigger BEFORE INSERT
+    ON employee
+    FOR EACH ROW BEGIN
+         IF NEW.sex = 'M' THEN
+               INSERT INTO trigger_test VALUES('added male employee');
+         ELSEIF NEW.sex = 'F' THEN
+               INSERT INTO trigger_test VALUES('added female');
+         ELSE
+               INSERT INTO trigger_test VALUES('added other employee');
+         END IF;
+    END$$
+DELIMITER ;
+```
