@@ -23,7 +23,7 @@
 
 - Ein Attribut das sich in weitere Sub-Attribute aufteilen kann
 
-// screenshot
+<img width="640" alt="Bildschirmfoto 2025-05-03 um 15 08 05" src="https://github.com/user-attachments/assets/b8df00ed-d06c-4912-b7ac-cf5258cf90e0" />
 
 ### Multi-valued Attribute
 
