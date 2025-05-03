@@ -53,7 +53,7 @@
 - 1:N bedeutet, der Student kann einen Kurs besuchen und ein Kurs kann von x-beliebig vielen Studenten besucht werden, oder andersrum.
 - N:M bedeutet wie oben beschrieben.
 
-// screenshot
+<img width="1476" alt="Bildschirmfoto 2025-05-03 um 15 19 55" src="https://github.com/user-attachments/assets/bb5e8751-1f02-4651-9322-73d4d5d40113" />
 
 ### Weak Entities & Identifying Relationship
 
