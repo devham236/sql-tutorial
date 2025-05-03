@@ -29,21 +29,19 @@
 
 - Ein Attribut das mehr als nur einen Wert haben kann.
 
-// screenshot
-
 ### Relationships between Entities
 
 - Die Linien zwischen den Entities 'Student'/'Class' und der Beziehung 'Takes' beschreiben die Partizipation der Entities.
 - Nicht jeder Student muss einen Kurs/Class besuchen (partial participation)
 - Jeder Kurs muss aber von mindestens einem Studenten besucht werden (total participation)
 
-// screenshot
+<img width="1451" alt="Bildschirmfoto 2025-05-03 um 15 10 50" src="https://github.com/user-attachments/assets/e7250b58-0a43-4530-adab-87a553394b80" />
 
 ### Relationship Attribute
 
 - Ein Attribute über die Beziehung.
 
-// screenshot
+<img width="1447" alt="Bildschirmfoto 2025-05-03 um 15 18 30" src="https://github.com/user-attachments/assets/d7610a01-0a20-4ced-8905-7659eddccf8e" />
 
 ### Relationship Cardinality
 
