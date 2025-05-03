@@ -6,7 +6,7 @@
 
 - Eine Entity beschreibt ein Objekt welches verschiedene Informationen in einer rechteckigen Form enthalten kann, beschreibt meist eine Tabelle.
 
-// screenshot
+<img width="353" alt="Bildschirmfoto 2025-05-03 um 14 56 22" src="https://github.com/user-attachments/assets/a8467170-0e23-492d-9996-d0bc41a451b5" />
 
 ### Attributes (Attribute)
 
