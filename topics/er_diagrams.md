@@ -54,5 +54,6 @@
 
 - Wenn die Kardinalität der Beziehung 1:1 ist, kann ein Student einen Kurs besuchen und ein Kurs kann von einem Student besucht werden.
 - 1:N bedeutet, der Student kann einen Kurs besuchen und ein Kurs kann von x-beliebig vielen Studenten besucht werden, oder andersrum.
+- N:M bedeutet wie oben beschrieben.
 
 // screenshot
