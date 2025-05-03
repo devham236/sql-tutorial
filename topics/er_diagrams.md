@@ -19,3 +19,9 @@
 - Mit dem Primary Key können wir auf einzelne Einträge zugreifen um gezielt nur einen bestimmten Eintrag auszuwählen.
 
 // screenshot
+
+### Composit Attributes
+
+- Ein Attribut das sich in weitere Sub-Attribute aufteilen kann
+
+// screenshot
