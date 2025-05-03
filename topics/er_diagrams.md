@@ -16,7 +16,7 @@
 
 ### Primary Key
 - Mit dem Primary Key können wir auf einzelne Einträge zugreifen um gezielt nur einen bestimmten Eintrag auszuwählen.
-- 
+
 <img width="604" alt="Bildschirmfoto 2025-05-03 um 15 04 23" src="https://github.com/user-attachments/assets/5815c08a-f75b-460d-80bf-5e13ec10f58c" />
 
 ### Composit Attributes
