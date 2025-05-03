@@ -34,4 +34,8 @@
 
 ### Relationships between Entities
 
+- Die Linien zwischen den Entities 'Student'/'Class' und der Beziehung 'Takes' beschreiben die Partizipation der Entities.
+- Nicht jeder Student muss einen Kurs/Class besuchen (partial participation)
+- Jeder Kurs muss aber von mindestens einem Studenten besucht werden (total participation)
+
 // screenshot
