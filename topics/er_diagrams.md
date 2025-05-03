@@ -39,3 +39,9 @@
 - Jeder Kurs muss aber von mindestens einem Studenten besucht werden (total participation)
 
 // screenshot
+
+### Relationship Attribute
+
+- Ein Attribute über die Beziehung.
+
+// screenshot
