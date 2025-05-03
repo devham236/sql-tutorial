@@ -62,5 +62,6 @@
 
 - Weak Entities sind Entities die nicht einzigartig durch die Attribute indetifiziert werden können, bedeutet eine Entity die abhängig von einer anderen Entity ist.
 - Eine Identifying Relationship ist dazu da um eine weak Entity zu identifizieren.
+- Eine Klausur existiert an sich nicht, nur in Abhängigkeit eines Kurses/Class
 
 // screenshot
