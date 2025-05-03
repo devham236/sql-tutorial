@@ -61,3 +61,6 @@
 ### Weak Entities & Identifying Relationship
 
 - Weak Entities sind Entities die nicht einzigartig durch die Attribute indetifiziert werden können, bedeutet eine Entity die abhängig von einer anderen Entity ist.
+- Eine Identifying Relationship ist dazu da um eine weak Entity zu identifizieren.
+
+// screenshot
