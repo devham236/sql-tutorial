@@ -12,7 +12,7 @@
 
 - Attribute beschreiben bestimmte Informationen bzw. Attribute einer Entität, z.B die einzelnen Spalten/Columns die eine Tabelle beinhalten soll. Sie werden in einer ovalen Form angezeigt
 
-// screenshot
+<img width="557" alt="Bildschirmfoto 2025-05-03 um 14 59 15" src="https://github.com/user-attachments/assets/c3cae97b-347d-4ff0-b49c-5dd111126bbe" />
 
 ### Primary Key
 
