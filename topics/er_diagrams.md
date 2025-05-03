@@ -6,6 +6,10 @@
 
 - Eine Entity beschreibt ein Objekt welches verschiedene Informationen enthalten kann, beschreibt meist eine Tabelle.
 
+// screenshot
+
 ### Attributes (Attribute)
 
 - Attribute beschreiben bestimmte Informationen einer Entität, z.B die einzelnen Spalten/Columns die eine Tabelle beinhalten soll.
+
+// screenshot
