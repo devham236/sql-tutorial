@@ -57,3 +57,7 @@
 - N:M bedeutet wie oben beschrieben.
 
 // screenshot
+
+### Weak Entities & Identifying Relationship
+
+- Weak Entities sind Entities die nicht einzigartig durch die Attribute indetifiziert werden können, bedeutet eine Entity die abhängig von einer anderen Entity ist.
