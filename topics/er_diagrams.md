@@ -45,3 +45,14 @@
 - Ein Attribute über die Beziehung.
 
 // screenshot
+
+### Relationship Cardinality
+
+- Beschreibt die Anzahl an Instanzen einer Entität in Bezug auf die Beziehung
+- N bedeutet ein Student kann x-beliebig viele Kurse besuchen
+- M bedeutet ein Kurs kann von x-beliebig vielen Studenten besucht werden
+
+- Wenn die Kardinalität der Beziehung 1:1 ist, kann ein Student einen Kurs besuchen und ein Kurs kann von einem Student besucht werden.
+- 1:N bedeutet, der Student kann einen Kurs besuchen und ein Kurs kann von x-beliebig vielen Studenten besucht werden, oder andersrum.
+
+// screenshot
