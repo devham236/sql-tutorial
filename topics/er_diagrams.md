@@ -25,3 +25,7 @@
 - Ein Attribut das sich in weitere Sub-Attribute aufteilen kann
 
 // screenshot
+
+### Multi-valued Attribute
+
+- Ein Attribut das mehr als nur einen Wert haben kann.
