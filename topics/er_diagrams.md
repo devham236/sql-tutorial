@@ -29,3 +29,9 @@
 ### Multi-valued Attribute
 
 - Ein Attribut das mehr als nur einen Wert haben kann.
+
+// screenshot
+
+### Relationships between Entities
+
+// screenshot
