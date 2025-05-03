@@ -10,6 +10,6 @@
 
 ### Attributes (Attribute)
 
-- Attribute beschreiben bestimmte Informationen bzw. Attribute einer Entität, z.B die einzelnen Spalten/Columns die eine Tabelle beinhalten soll.
+- Attribute beschreiben bestimmte Informationen bzw. Attribute einer Entität, z.B die einzelnen Spalten/Columns die eine Tabelle beinhalten soll. Sie werden in einer ovalen Form angezeigt
 
 // screenshot
