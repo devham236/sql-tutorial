@@ -61,4 +61,4 @@
 - Eine Identifying Relationship ist dazu da um eine weak Entity zu identifizieren.
 - Eine Klausur existiert an sich nicht, nur in Abhängigkeit eines Kurses/Class
 
-// screenshot
+<img width="1464" alt="Bildschirmfoto 2025-05-03 um 15 30 12" src="https://github.com/user-attachments/assets/a0f70a1a-0cdc-40a5-ac81-5a69fa60ba72" />
