@@ -14,3 +14,7 @@
 4. An **employee** can work for **one branch at a time**, and each **branch** will be managed by **one of the employees** that work there. We'll also want to keep track of when the current manager started as manager.
 
 5. An **employee** can act as a **supervisor for other employees at the branch**, an employee may also act as the supervisor **for employees at other branches**. An employee can have **at most one supervisor**.
+
+6. A **branch** may handle a **number of clients**, with each client having a name and a unique number to indetify it. A **single client** may only be handled by **one branch at a time**.
+
+7. **Employees** can work with clients controlled by their branch to sell them stuff. If neccessary **multiple employees** can work with the **same client**. We'll want to keep track of how many **dollars worth of stuff** each **employee** sells to each **client** they work with.
