@@ -53,6 +53,9 @@
 
 <img width="1302" alt="Bildschirmfoto 2025-05-07 um 10 47 20" src="https://github.com/user-attachments/assets/1fafa3b1-ceed-46bb-afcb-3f2a111ea2f0" />
 
+- Nicht jeder employee muss einen branch managen, jeder branch muss aber von einem employee gemanaged werden.
+- Ein employee kann nur einen branch managen.
+
 #### Relationship between employees (Supervision)
 
 <img width="1474" alt="Bildschirmfoto 2025-05-07 um 10 51 40" src="https://github.com/user-attachments/assets/db429cd7-8b1d-429e-b1cf-81f72b3e5d49" />
