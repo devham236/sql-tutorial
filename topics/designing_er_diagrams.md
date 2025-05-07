@@ -4,3 +4,5 @@
 - Mit dieser Beschreibung kann man davor ein ER Diagram erstellen und dieses dann in ein Database Schema kovertieren.
 
 ### Data Requirements
+
+1. The company is organized into **branches**. Each branch has a unique **number**, a **name** and a particular **employee** who manages it.
