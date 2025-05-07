@@ -23,29 +23,38 @@
 
 ### ER Diagram Steps
 
-- Branch Entity
+#### Branch Entity
+
 <img width="466" alt="Bildschirmfoto 2025-05-07 um 10 38 42" src="https://github.com/user-attachments/assets/f9b9ba01-1ea6-4844-bde2-f414d2177e75" />
 
-- Client Entity
+#### Client Entity
+
 <img width="489" alt="Bildschirmfoto 2025-05-07 um 10 39 19" src="https://github.com/user-attachments/assets/68b64498-8379-4fbc-bd67-47d6dad00c66" />
 
-- Employee Entity
+#### Employee Entity
+
 <img width="578" alt="Bildschirmfoto 2025-05-07 um 10 39 58" src="https://github.com/user-attachments/assets/ab934ef8-be43-48b8-9639-5e03497c9c29" />
 
-- Relationship between employee and branch (Works For)
+#### Relationship between employee and branch (Works For)
+
 <img width="1440" alt="Bildschirmfoto 2025-05-07 um 10 41 28" src="https://github.com/user-attachments/assets/2c15152c-1cf5-498e-ab69-89f2518e16e2" />
 
-- Relationship between employee and branch (Manages)
+#### Relationship between employee and branch (Manages)
+
 <img width="1302" alt="Bildschirmfoto 2025-05-07 um 10 47 20" src="https://github.com/user-attachments/assets/1fafa3b1-ceed-46bb-afcb-3f2a111ea2f0" />
 
-- Relationship between employees (Supervision)
+#### Relationship between employees (Supervision)
+
 <img width="1474" alt="Bildschirmfoto 2025-05-07 um 10 51 40" src="https://github.com/user-attachments/assets/db429cd7-8b1d-429e-b1cf-81f72b3e5d49" />
 
-- Relationship between branch and client (Handles)
+#### Relationship between branch and client (Handles)
+
 <img width="1481" alt="Bildschirmfoto 2025-05-07 um 10 54 22" src="https://github.com/user-attachments/assets/be00e776-7b01-47fc-9cd0-8afb0e54db6b" />
 
-- Relationship between employees and clients (Works with)
+#### Relationship between employees and clients (Works with)
+
 <img width="1475" alt="Bildschirmfoto 2025-05-07 um 10 58 12" src="https://github.com/user-attachments/assets/4c08c647-ca38-4459-930c-2a56a105aabe" />
 
-- Relationship between branch and branch supplier (Supplies)
+#### Relationship between branch and branch supplier (Supplies)
+
 <img width="1472" alt="Bildschirmfoto 2025-05-07 um 11 07 02" src="https://github.com/user-attachments/assets/5d04b9c9-2fea-41b1-9ded-6c00cf27f140" />
