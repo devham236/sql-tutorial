@@ -33,6 +33,8 @@
 
 <img width="489" alt="Bildschirmfoto 2025-05-07 um 10 39 19" src="https://github.com/user-attachments/assets/68b64498-8379-4fbc-bd67-47d6dad00c66" />
 
+- Die Client Entity hat einen client_name und client_id als Attribut. Die client_id ist der Primary Key.
+
 #### Employee Entity
 
 <img width="578" alt="Bildschirmfoto 2025-05-07 um 10 39 58" src="https://github.com/user-attachments/assets/ab934ef8-be43-48b8-9639-5e03497c9c29" />
