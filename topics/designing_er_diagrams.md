@@ -50,3 +50,7 @@
 - Relationship between branch and client (Handles)
 
 // screenshot
+
+- Relationship between employees and clients (Works with)
+
+// screenshot
