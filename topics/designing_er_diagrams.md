@@ -46,3 +46,7 @@
 - Relationship between employees (Supervision)
 
 // screenshot
+
+- Relationship between branch and client (Handles)
+
+// screenshot
