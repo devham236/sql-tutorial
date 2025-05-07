@@ -35,6 +35,10 @@
 
 // screenshot
 
-- Relationship between employee and branch
+- Relationship between employee and branch (Works For)
+
+// screenshot
+
+- Relationship between employee and branch (Manages)
 
 // screenshot
