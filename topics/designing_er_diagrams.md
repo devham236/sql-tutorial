@@ -53,8 +53,9 @@
 
 <img width="1302" alt="Bildschirmfoto 2025-05-07 um 10 47 20" src="https://github.com/user-attachments/assets/1fafa3b1-ceed-46bb-afcb-3f2a111ea2f0" />
 
-- Nicht jeder employee muss einen branch managen, jeder branch muss aber von einem employee gemanaged werden.
+- Nicht jeder employee muss einen branch managen (Partial Participation), jeder branch muss aber von einem employee gemanaged werden.
 - Ein employee kann nur einen branch managen.
+- Aus dieser Relationship entnehmen wir start_date des Managers.
 
 #### Relationship between employees (Supervision)
 
