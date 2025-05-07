@@ -22,3 +22,7 @@
 8. Many **branches** will need to **work with suppliers** to buy inventory. For each supplier we'll keep track of their name and the type of product they're selling the branch. A **single supplier** may supply products to **multiple branches**.
 
 ### ER Diagram Steps
+
+1. Branch Entity
+
+// screenshot
