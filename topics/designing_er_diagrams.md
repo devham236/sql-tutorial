@@ -36,14 +36,13 @@
 <img width="1440" alt="Bildschirmfoto 2025-05-07 um 10 41 28" src="https://github.com/user-attachments/assets/2c15152c-1cf5-498e-ab69-89f2518e16e2" />
 
 - Relationship between employee and branch (Manages)
-<img width="1302" alt="Bildschirmfoto 2025-05-07 um 10 47 20" src="https://github.com/user-attachments/assets/b3ebc48e-e74a-42c4-ad53-266bafb15bd0" />
+<img width="1302" alt="Bildschirmfoto 2025-05-07 um 10 47 20" src="https://github.com/user-attachments/assets/1fafa3b1-ceed-46bb-afcb-3f2a111ea2f0" />
 
 - Relationship between employees (Supervision)
 <img width="1474" alt="Bildschirmfoto 2025-05-07 um 10 51 40" src="https://github.com/user-attachments/assets/db429cd7-8b1d-429e-b1cf-81f72b3e5d49" />
 
 - Relationship between branch and client (Handles)
-
-// screenshot
+<img width="1481" alt="Bildschirmfoto 2025-05-07 um 10 54 22" src="https://github.com/user-attachments/assets/be00e776-7b01-47fc-9cd0-8afb0e54db6b" />
 
 - Relationship between employees and clients (Works with)
 
