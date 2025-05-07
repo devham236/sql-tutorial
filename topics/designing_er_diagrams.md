@@ -12,3 +12,5 @@
 3. The foundation of the company is it's **employees**. Each employee has a **name**, **birthday**, **sex**, **salary**, and a **unique number**.
 
 4. An **employee** can work for **one branch at a time**, and each **branch** will be managed by **one of the employees** that work there. We'll also want to keep track of when the current manager started as manager.
+
+5. An employee can act as a supervisor for other employees at the branch, an employee may also act as the supervisor for employees at other branches. An employee can have at most one supervisor.
