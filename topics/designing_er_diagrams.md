@@ -47,7 +47,7 @@
 
 - Jeder employee muss für einen branch arbeiten und jeder branch hat employees die für den branch arbeiten
   (Full Participation bei beiden)
-- Jeder employee kann für einen branch arbeiten, jeder branch kann beliebig viele Mitarbeiter haben.
+- Jeder employee kann für einen branch arbeiten, jeder branch kann beliebig viele Mitarbeiter haben (Cardinality Relationship).
 
 #### Relationship between employee and branch (Manages)
 
