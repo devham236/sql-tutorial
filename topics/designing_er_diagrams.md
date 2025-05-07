@@ -61,6 +61,10 @@
 
 <img width="1474" alt="Bildschirmfoto 2025-05-07 um 10 51 40" src="https://github.com/user-attachments/assets/db429cd7-8b1d-429e-b1cf-81f72b3e5d49" />
 
+- Die Supervision Relationship ist eine zwischen den employees.
+- Ein employee kann der Supervisor eines anderen oder mehreren employees sein.
+- Ein Supervisee kann nur einen Supervisor haben.
+
 #### Relationship between branch and client (Handles)
 
 <img width="1481" alt="Bildschirmfoto 2025-05-07 um 10 54 22" src="https://github.com/user-attachments/assets/be00e776-7b01-47fc-9cd0-8afb0e54db6b" />
