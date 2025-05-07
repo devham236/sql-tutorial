@@ -45,6 +45,10 @@
 
 <img width="1440" alt="Bildschirmfoto 2025-05-07 um 10 41 28" src="https://github.com/user-attachments/assets/2c15152c-1cf5-498e-ab69-89f2518e16e2" />
 
+- Jeder employee muss für einen branch arbeiten und jeder branch hat employees die für den branch arbeiten
+  (Full Participation bei beiden)
+- Jeder employee kann für einen branch arbeiten, jeder branch kann beliebig viele Mitarbeiter haben.
+
 #### Relationship between employee and branch (Manages)
 
 <img width="1302" alt="Bildschirmfoto 2025-05-07 um 10 47 20" src="https://github.com/user-attachments/assets/1fafa3b1-ceed-46bb-afcb-3f2a111ea2f0" />
