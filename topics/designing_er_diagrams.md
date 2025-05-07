@@ -42,3 +42,7 @@
 - Relationship between employee and branch (Manages)
 
 // screenshot
+
+- Relationship between employees (Supervision)
+
+// screenshot
