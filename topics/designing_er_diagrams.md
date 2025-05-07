@@ -11,4 +11,4 @@
 
 3. The foundation of the company is it's **employees**. Each employee has a **name**, **birthday**, **sex**, **salary**, and a **unique number**.
 
-4. An **employee** can work for **one branch at a time**, and each branch will be managed by one of the employees that work there. We'll also want to keep track of when the current manager started as manager.
+4. An **employee** can work for **one branch at a time**, and each **branch** will be managed by **one of the employees** that work there. We'll also want to keep track of when the current manager started as manager.
