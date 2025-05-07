@@ -34,3 +34,7 @@
 3. Employee Entity
 
 // screenshot
+
+4. Relationship between employee and branch
+
+// screenshot
