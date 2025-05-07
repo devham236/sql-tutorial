@@ -54,3 +54,7 @@
 - Relationship between employees and clients (Works with)
 
 // screenshot
+
+- Relationship between branch and branch supplier (Supplies)
+
+// screenshot
