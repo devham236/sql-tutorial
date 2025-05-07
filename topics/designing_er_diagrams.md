@@ -39,8 +39,7 @@
 <img width="1302" alt="Bildschirmfoto 2025-05-07 um 10 47 20" src="https://github.com/user-attachments/assets/b3ebc48e-e74a-42c4-ad53-266bafb15bd0" />
 
 - Relationship between employees (Supervision)
-
-// screenshot
+<img width="1474" alt="Bildschirmfoto 2025-05-07 um 10 51 40" src="https://github.com/user-attachments/assets/db429cd7-8b1d-429e-b1cf-81f72b3e5d49" />
 
 - Relationship between branch and client (Handles)
 
