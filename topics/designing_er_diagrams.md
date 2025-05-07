@@ -30,3 +30,7 @@
 2. Client Entity
 
 // screenshot
+
+3. Employee Entity
+
+// screenshot
