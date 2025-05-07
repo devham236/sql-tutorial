@@ -45,8 +45,7 @@
 <img width="1481" alt="Bildschirmfoto 2025-05-07 um 10 54 22" src="https://github.com/user-attachments/assets/be00e776-7b01-47fc-9cd0-8afb0e54db6b" />
 
 - Relationship between employees and clients (Works with)
-
-// screenshot
+<img width="1475" alt="Bildschirmfoto 2025-05-07 um 10 58 12" src="https://github.com/user-attachments/assets/4c08c647-ca38-4459-930c-2a56a105aabe" />
 
 - Relationship between branch and branch supplier (Supplies)
 
