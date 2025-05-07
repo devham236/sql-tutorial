@@ -27,6 +27,8 @@
 
 <img width="466" alt="Bildschirmfoto 2025-05-07 um 10 38 42" src="https://github.com/user-attachments/assets/f9b9ba01-1ea6-4844-bde2-f414d2177e75" />
 
+- Die Branch Entity hat einen branch_name und eine branch_id als Attribut. Die branch_id ist der Primary Key.
+
 #### Client Entity
 
 <img width="489" alt="Bildschirmfoto 2025-05-07 um 10 39 19" src="https://github.com/user-attachments/assets/68b64498-8379-4fbc-bd67-47d6dad00c66" />
