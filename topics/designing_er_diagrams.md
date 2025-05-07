@@ -36,8 +36,7 @@
 <img width="1440" alt="Bildschirmfoto 2025-05-07 um 10 41 28" src="https://github.com/user-attachments/assets/2c15152c-1cf5-498e-ab69-89f2518e16e2" />
 
 - Relationship between employee and branch (Manages)
-
-// screenshot
+<img width="1302" alt="Bildschirmfoto 2025-05-07 um 10 47 20" src="https://github.com/user-attachments/assets/b3ebc48e-e74a-42c4-ad53-266bafb15bd0" />
 
 - Relationship between employees (Supervision)
 
