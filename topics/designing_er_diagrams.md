@@ -6,3 +6,5 @@
 ### Data Requirements
 
 1. The company is organized into **branches**. Each branch has a unique **number**, a **name** and a particular **employee** who manages it.
+
+2. The company makes it's money by selling to **clients**. Each client has a **name** and a unique **number** to identify it.
