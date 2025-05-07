@@ -48,5 +48,4 @@
 <img width="1475" alt="Bildschirmfoto 2025-05-07 um 10 58 12" src="https://github.com/user-attachments/assets/4c08c647-ca38-4459-930c-2a56a105aabe" />
 
 - Relationship between branch and branch supplier (Supplies)
-
-// screenshot
+<img width="1472" alt="Bildschirmfoto 2025-05-07 um 11 07 02" src="https://github.com/user-attachments/assets/5d04b9c9-2fea-41b1-9ded-6c00cf27f140" />
