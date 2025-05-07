@@ -23,18 +23,18 @@
 
 ### ER Diagram Steps
 
-1. Branch Entity
+- Branch Entity
 
 // screenshot
 
-2. Client Entity
+- Client Entity
 
 // screenshot
 
-3. Employee Entity
+- Employee Entity
 
 // screenshot
 
-4. Relationship between employee and branch
+- Relationship between employee and branch
 
 // screenshot
