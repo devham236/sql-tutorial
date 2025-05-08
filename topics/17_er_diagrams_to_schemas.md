@@ -63,3 +63,9 @@ ADD FOREIGN KEY(mgr_id)
 REFERENCES employee(emp_id)
 ON DELETE SET NULL;
 ```
+
+### 4. Binäre 1:N Beziehungen
+
+- Nun schauen wir uns die Entitäten mit einer 1:N Beziehung an.
+- In dem wir einen Foreign Key der Entität geben die N zur Beziehung steht, welcher auf einen Primary Key der Entität die 1 zur Beziehung steht verweist.
+- In diesem Fall sind es die Branch - Employee (Works for), Employee - Employee (Supervision) und die Client - Branch (Handles) Beziehungen.
