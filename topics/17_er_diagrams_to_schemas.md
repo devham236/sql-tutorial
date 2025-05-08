@@ -72,4 +72,19 @@ ON DELETE SET NULL;
 
 <img width="924" alt="Bildschirmfoto 2025-05-08 um 10 39 12" src="https://github.com/user-attachments/assets/fc58e572-bcd1-4f03-a7a0-7b1f9f8a3ed7" />
 
+```js
+ALTER TABLE employee
+ADD FOREIGN KEY(branch_id)
+REFERENCES branch(branch_id)
+ON DELETE SET NULL;
 
+ALTER TABLE employee
+ADD FOREIGN KEY(super_id)
+REFERENCES employee(emp_id)
+ON DELETE SET NULL;
+
+ALTER TABLE client
+ADD FOREIGN KEY(branch_id)
+REFERENCES branch(branch_id)
+ON DELETE SET NULL;
+```
