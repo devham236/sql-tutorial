@@ -39,3 +39,13 @@ CREATE TABLE branch (
 - Die primary keys von **branch_supplier** bestehen aus **branch_id** und **supplier_name**, ist also ein composit key.
 
 <img width="583" alt="Bildschirmfoto 2025-05-08 um 10 21 54" src="https://github.com/user-attachments/assets/9312ff03-066a-4c8d-9c85-dbae7d6f4c4a" />
+
+```js
+CREATE TABLE branch_supplier (
+  branch_id INT,
+  supplier_name VARCHAR(40),
+  supply_type VARCHAR(40),
+  PRIMARY KEY(branch_id, supplier_name),
+  FOREIGN KEY(branch_id) REFERENCES branch(branch_id) ON DELETE CASCADE
+);
+```
