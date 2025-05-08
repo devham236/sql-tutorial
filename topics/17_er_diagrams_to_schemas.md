@@ -94,3 +94,6 @@ ON DELETE SET NULL;
 - Zuletzt schauen wir uns die Entitäten mit einer M:N Beziehung an.
 - In dem wir eine neue Tabelle erstellen, wo der Primary Key aus den Primary Keys der beiden Entitäten besteht.
 - Hier wären es die Employee und Client Tabellen/Entitäten.
+
+<img width="737" alt="Bildschirmfoto 2025-05-08 um 10 45 53" src="https://github.com/user-attachments/assets/c8d19a42-660f-402c-aa11-b34c9cac21a8" />
+
