@@ -98,7 +98,7 @@ ON DELETE SET NULL;
 <img width="737" alt="Bildschirmfoto 2025-05-08 um 10 45 53" src="https://github.com/user-attachments/assets/c8d19a42-660f-402c-aa11-b34c9cac21a8" />
 
 ```js
-CREATE TABLE works_with (
+CREATE TABLE works_on (
   emp_id INT,
   client_id INT,
   total_sales INT,
