@@ -69,3 +69,7 @@ ON DELETE SET NULL;
 - Nun schauen wir uns die Entitäten mit einer 1:N Beziehung an.
 - In dem wir einen Foreign Key der Entität geben die N zur Beziehung steht, welcher auf einen Primary Key der Entität die 1 zur Beziehung steht verweist.
 - In diesem Fall sind es die Branch - Employee (Works for), Employee - Employee (Supervision) und die Client - Branch (Handles) Beziehungen.
+
+<img width="924" alt="Bildschirmfoto 2025-05-08 um 10 39 12" src="https://github.com/user-attachments/assets/fc58e572-bcd1-4f03-a7a0-7b1f9f8a3ed7" />
+
+
