@@ -8,3 +8,5 @@
 
 - Zuerst erstellen wir für alle 'normalen' Entitäten, also unabhängige Entitäten mit einfachen Attributen, Tabellen in der Database.
 - In diesem Fall sind es die **employee**, **client** und **branch** Entitäten.
+
+<img width="898" alt="Bildschirmfoto 2025-05-08 um 10 11 56" src="https://github.com/user-attachments/assets/ae4a7248-d324-421e-8f32-f9e787d06e85" />
