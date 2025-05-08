@@ -57,3 +57,9 @@ CREATE TABLE branch_supplier (
 
 <img width="782" alt="Bildschirmfoto 2025-05-08 um 10 29 49" src="https://github.com/user-attachments/assets/0676c9c4-cf4a-4498-9166-5418fb4320a2" />
 
+```js
+ALTER TABLE branch
+ADD FOREIGN KEY(mgr_id)
+REFERENCES employee(emp_id)
+ON DELETE SET NULL;
+```
