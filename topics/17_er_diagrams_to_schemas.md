@@ -54,3 +54,6 @@ CREATE TABLE branch_supplier (
 
 - Jetzt bearbeiten wir die Entitäten die in einer 1:1 Beziehung miteinander stehen.
 - In dem wir einen Foreign Key der Tabelle/Entität geben die in totaler Partizipation zur Beziehung mit der anderen Entity steht, also bekommt **branch** einen Foreign Key 'mgr_id' der auf die 'emp_id' von **employee** verweist.
+
+<img width="782" alt="Bildschirmfoto 2025-05-08 um 10 29 49" src="https://github.com/user-attachments/assets/0676c9c4-cf4a-4498-9166-5418fb4320a2" />
+
