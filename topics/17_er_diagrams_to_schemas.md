@@ -31,3 +31,8 @@ CREATE TABLE branch (
     branch_name VARCHAR(30),
 );
 ```
+
+### 2. Schwache Entitäten
+
+- Als nächstes können wir für die schwachen Entitäten, Tabellen erstellen.
+- In diesem Fall wäre es die **branch_supplier** Entität.
