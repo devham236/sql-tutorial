@@ -88,3 +88,9 @@ ADD FOREIGN KEY(branch_id)
 REFERENCES branch(branch_id)
 ON DELETE SET NULL;
 ```
+
+### 5. Binäre M:N Beziehungen
+
+- Zuletzt schauen wir uns die Entitäten mit einer M:N Beziehung an.
+- In dem wir eine neue Tabelle erstellen, wo der Primary Key aus den Primary Keys der beiden Entitäten besteht.
+- Hier wären es die Employee und Client Tabellen/Entitäten.
