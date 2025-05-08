@@ -49,3 +49,8 @@ CREATE TABLE branch_supplier (
   FOREIGN KEY(branch_id) REFERENCES branch(branch_id) ON DELETE CASCADE
 );
 ```
+
+### 3. Binäre 1:1 Beziehungen
+
+- Jetzt bearbeiten wir die Entitäten die in einer 1:1 Beziehung miteinander stehen.
+- In dem wir einen Foreign Key der Tabelle/Entität geben die in totaler Partizipation zur Beziehung mit der anderen Entity steht, also bekommt **branch** einen Foreign Key 'mgr_id' der auf die 'emp_id' von **employee** verweist.
