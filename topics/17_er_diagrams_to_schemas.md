@@ -97,3 +97,13 @@ ON DELETE SET NULL;
 
 <img width="737" alt="Bildschirmfoto 2025-05-08 um 10 45 53" src="https://github.com/user-attachments/assets/c8d19a42-660f-402c-aa11-b34c9cac21a8" />
 
+```js
+CREATE TABLE works_with (
+  emp_id INT,
+  client_id INT,
+  total_sales INT,
+  PRIMARY KEY(emp_id, client_id),
+  FOREIGN KEY(emp_id) REFERENCES employee(emp_id) ON DELETE CASCADE,
+  FOREIGN KEY(client_id) REFERENCES client(client_id) ON DELETE CASCADE
+);
+```
